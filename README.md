@@ -19,3 +19,5 @@ Set Reset - saves the current model position, rotation and size, and when you us
 Set Model - Saves the current model for the 'custom avatar' button which will load the specified model.
 
 This program likely only works on Windows, this version does have a console running so if you encounter an error please post the log here.
+
+Follow me on twitter for me updates @theraelice or join our discord where I'll talk about what updates I'm bringing to this. (https://twitter.com/theRaelice) Discord: https://discord.gg/QvP8hwS

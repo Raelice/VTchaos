@@ -1,6 +1,8 @@
 # VTchaos
 A youtube chat bot that sends commands to Vtube Studio.
 
+New installs require the entirety of the new folder, delete the old,
+
 This is public version 1.1 of the VTchaos chat program. You can use it to read chat from youtube and have that activate commands in Vtube Studio. Example : someone types in !big in chat, it scales your avatar size to 100 (the max). When run for the first time it will generate a file name vtube studio config, DO NOT put this in the same folder as vtube studio, not sure if it will interfere with anything but better safe than sorry. The buttons are slightly laggy while it attempts to read chat, do not worry the commands will execute.
 
 | Chat Command List |

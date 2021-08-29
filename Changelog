@@ -1,0 +1,26 @@
+Changelog
+
+8/21/21
+
+VTchaos 1.0 is released with functions:
+
+!small
+!big
+!flip
+!spin
+!rainbow
+!reset
+!center
+
+
+8-29-21
+
+| VTchaos 1.1 |
+
+- !small changed to !smaller, decreases model size in increments instead of all at once
+- !big changed to !bigger, increases model size in increments instead of all at once
+- !tiny added, same function as previous !small command
+- !huge added, same function as previous !big command
+- !tiltR and !tiltL added to rotate model by 45 degree increments
+- !up !down !left !right added to move model in the cardinal directions
+- Slowmode added to prevent youtube comment spam for big youtubers

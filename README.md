@@ -43,6 +43,7 @@ This is public version 1.1 of the VTchaos chat program. You can use it to read c
 - Channel Name - input your channel name all lowercase
 - Start Twitch - Starts the twitch bot
 - VTchaos Site - Site used to generatore your oauth token
+- Members Mode - only Youtube Members can trigger commands.
 
 This program likely only works on Windows, this version does have a console running so if you encounter an error please post the log here.
 
